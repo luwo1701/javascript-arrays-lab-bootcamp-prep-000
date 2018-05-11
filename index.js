@@ -26,5 +26,5 @@ function prependKitten(name){
 }
 
 function removeLastKitten(){
-  
+  return [slice(0)]
 }
